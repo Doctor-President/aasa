@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "8XM4B5F42Y.com.doctorpresident.airpad",
+        "paths": ["*"]
+      }
+    ]
+  },
+  "appclips": {
+    "apps": ["8XM4B5F42Y.com.doctorpresident.airpad.Clip"]
+  }
+}
