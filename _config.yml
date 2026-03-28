@@ -1,0 +1,9 @@
+include:
+  - .well-known
+```
+
+4. Click **Commit changes**
+
+Wait 2-3 minutes then try the URL again in Safari:
+```
+https://doctor-president.github.io/aasa/.well-known/apple-app-site-association
